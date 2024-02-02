@@ -124,15 +124,4 @@ color: white;
 font-size: 10px;
 
 }
-@media only screen and (max-width: 600px) {
-    /* Adjust styles for small screens here */
-    .calculator {
-        max-width: 100%;
-    }
-    /* Add more responsive styles for small screens */
-}
 
-/* Example media query for medium to large screens */
-@media only screen and (min-width: 601px) {
-    /* Adjust styles for medium to large screens here */
-}
